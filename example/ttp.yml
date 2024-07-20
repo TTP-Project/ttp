@@ -1,4 +1,4 @@
 # TTP ROOT
 
-rootfolder: ./
-home: index.pg.ttp.yml
+domain: ttpx.site
+home: index.ttp.txt
